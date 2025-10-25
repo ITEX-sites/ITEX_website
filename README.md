@@ -1,5 +1,5 @@
-# Simple Website Using Github Pages
-View example website here: https://cplmakerlab.github.io/simple-website-template/
+# Test Webpage for ITEX outreach
+View example website here: https://cplmakerlab.github.io/simple-website-template/ \
 View ITEX website here:  https://ITEX-sites.github.io/ITEX_website/
 
 ## Setup
